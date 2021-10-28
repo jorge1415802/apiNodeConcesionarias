@@ -1,8 +1,8 @@
-const DB_USER = "jorge";
-const DB_PORT = 17032;
-const DB_HOST = "postgresql-55788-0.cloudclusters.net";
-const DB_NAME = "dev";
-const DB_PASSWORD = 12345678;
+const DB_USER = "lzkjxchlzkjxhclzkjxhc";
+const DB_PORT = 1231654654651231321321321;
+const DB_HOST = "lkjahljkHADLSKJhasdlkjAHSDLKJahsdlkjHASLDKJHlaskjdhlKJASHDLKjhasd";
+const DB_NAME = "lkjasdhdolakjsdhlakjshdlakjsdhlakjshdlakjshd";
+const DB_PASSWORD = "lajksdhlakjsdhlakjshdlkajhsdlkajhsdasd123215654654654654";
 
 module.exports = {
     DB_HOST,
